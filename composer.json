@@ -1,0 +1,6 @@
+{
+    "require": {
+        "team-reflex/discord-php": "dev-master",
+        "discord-php/slash": "^1.0"
+    }
+}
