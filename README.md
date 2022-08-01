@@ -6,10 +6,14 @@
 
 # Guide
 - Create a bot on Discord `https://discord.com/developers/applications`
-- Download all content on this repo
-- Replace `'token' => ''` in `run_timer.php` with the app token from the link above
-- Open Folder In CLI [terminal]
+- Download Entire Repo Content
+- Extract into a permanent folder
+- Edit `run_timer.php` -> Replace `PLACE_TOKEN_HERE` with the app token from the link above
+- Open CLI/Command Prompt
+- Navigate to the Repo Folder
 - Enter `php run_timer.php` and press enter
+
+![image](https://user-images.githubusercontent.com/41697893/182054261-1e84ddd9-8138-4fcb-be5a-f2da986f5dc0.png)
 - Bot should be running!
 
 # Example Video
