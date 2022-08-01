@@ -1,6 +1,9 @@
 # TimmyTimer
  Discord bot to let users create channel timers and have other users join them
 
+# Requirements
+- PHP / Xampp
+
 # Guide
 - Create a bot on Discord `https://discord.com/developers/applications`
 - Download all content on this repo
