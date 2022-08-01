@@ -9,3 +9,6 @@
 - Enter `php run_timer.php` and press enter
 - Bot should be running!
 
+# Example Video
+https://user-images.githubusercontent.com/41697893/182052317-1a0f4199-5296-4360-963f-46e74c5547af.mov
+
