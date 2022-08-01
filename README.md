@@ -17,6 +17,10 @@
 # Navigating to a folder in CLI
 ![image](https://user-images.githubusercontent.com/41697893/182054261-1e84ddd9-8138-4fcb-be5a-f2da986f5dc0.png)
 
+# Adding Bot to Server
+- Replace REPLACECLIENTIDHERE with your bots CLIENT ID
+- `https://discord.com/api/oauth2/authorize?client_id=REPLACECLIENTIDHERE&permissions=0&scope=bot%20applications.commands`
+
 # Commands
 - !t #
 - !towner
@@ -24,4 +28,3 @@
 
 # Example Video
 https://user-images.githubusercontent.com/41697893/182052317-1a0f4199-5296-4360-963f-46e74c5547af.mov
-
