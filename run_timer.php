@@ -24,7 +24,7 @@ use Discord\Parts\Channel\Channel;
 // });
 
 $discord = new DiscordCommandClient([
-  'token' => '', // Put your Bot token here from https://discord.com/developers/applications/
+  'token' => 'PLACE_TOKEN_HERE', // Put your Bot token here from https://discord.com/developers/applications/
 ]);
 
 $TT_timers = [];
