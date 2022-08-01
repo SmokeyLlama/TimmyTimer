@@ -12,9 +12,10 @@
 - Open CLI/Command Prompt
 - Navigate to the Repo Folder
 - Enter `php run_timer.php` and press enter
-
-![image](https://user-images.githubusercontent.com/41697893/182054261-1e84ddd9-8138-4fcb-be5a-f2da986f5dc0.png)
 - Bot should be running!
+
+# Navigating to a folder in CLI
+![image](https://user-images.githubusercontent.com/41697893/182054261-1e84ddd9-8138-4fcb-be5a-f2da986f5dc0.png)
 
 # Example Video
 https://user-images.githubusercontent.com/41697893/182052317-1a0f4199-5296-4360-963f-46e74c5547af.mov
